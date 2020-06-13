@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=m_u6P5k0vP0
+https://youtu.be/m_u6P5k0vP0?t=6529
+
+(mostly firebase stuff up to 28:45)
+
+npm install --save express
+npm install --save firebase
+npm install --save busboy (upload images)
