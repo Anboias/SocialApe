@@ -1,8 +1,16 @@
 https://www.youtube.com/watch?v=m_u6P5k0vP0
-https://youtu.be/m_u6P5k0vP0?t=6529
+https://youtu.be/m_u6P5k0vP0?t=15234
+
+Source Map Explorer (see bundle sizes)
 
 (mostly firebase stuff up to 28:45)
 
+Server
 npm install --save express
 npm install --save firebase
 npm install --save busboy (upload images)
+
+
+Client
+npm install --save react-router-dom
+npm install --save @material-ui/core
